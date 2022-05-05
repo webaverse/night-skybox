@@ -1,5 +1,6 @@
 {
   "name": "night-skybox",
+  "description": "night-skybox",
   "start_url": "index.js",
   "components": {
     "activate": true
